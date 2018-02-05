@@ -1,0 +1,12 @@
+{
+    "mac": "xx:xx:xx:xx",
+    "uid": "",
+    "connect": {
+        "id": "id",
+        "command": {}
+    },
+    "disconnect": {
+        "id": "id",
+        "command": {}
+    }
+}
